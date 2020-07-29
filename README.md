@@ -33,7 +33,7 @@
 
 <p  align="center">
 
-<img  alt="BeTheHero"  src=".github/bethehero.png"  width="100%">
+<img  alt="BoaAcao"  src=".github/boa-acao.png"  width="100%">
 
 </p>
 
