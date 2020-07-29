@@ -53,12 +53,14 @@ Foram criadas 2 personas que estão em vulnerabilidade social dentro do projeto:
 ### Backend
 
 - Dentro do terminal, acesse a pasta **backend**
+- **cd backend/**
 - Rode **npm install** para instalar as dependências.
-- Rode **npm start** para iniciar a API.
+- Rode **npm start** para iniciar a API. Deixe a API rodando enquanto executa as demais aplicações.
 
 ### Mobile
 
 - Em outro terminal, acesse a pasta **mobile**
+- **cd mobile/**
 - Rode **npm install --global expo-cli** para instalar o [Expo](https://expo.io/) localmente.
 - Rode **npm install** para instalar as dependências.
 
@@ -73,8 +75,9 @@ Foram criadas 2 personas que estão em vulnerabilidade social dentro do projeto:
 
 ### Frontend
 
-- Dentro do terminal, acesse a pasta **backend**
+- Dentro de outro terminal, acesse a pasta **frontend** 
+- **cd frontend/**
 - Rode **npm install** para instalar as dependências.
-- Rode **npm start** para rodar a API.
+- Rode **npm start** para rodar a página Web que irá ser feito o gerenciamento das pessoas que precisam de ajuda.
 
 - Código de login ONG ficticia: **79bee084**
