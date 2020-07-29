@@ -18,7 +18,7 @@ module.exports = {
     connection: {
       database: 'boa_acao',
       user:     'postgres',
-      password: 'docker'
+      password: 'postgres'
     },
     pool: {
       min: 2,
@@ -34,7 +34,7 @@ module.exports = {
     connection: {
       database: 'boa_acao',
       user:     'postgres',
-      password: 'docker'
+      password: 'postgres'
     },
     pool: {
       min: 2,
