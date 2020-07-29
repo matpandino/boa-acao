@@ -52,7 +52,7 @@ O Boa Ação é um projeto que visa conectar pessoas que desejam fazer contribui
 
 Dentro do projeto atual foi criada uma ONG ficticia que ajuda pessoas em vulnerabilidade social.
 
-Foram criadas 2 personas que estão em vulnerabilidade social dentro do projeto: **Augusto e João**.  
+Foram criadas 2 personas que estão em vulnerabilidade social dentro do projeto: **Augusto e Maria**.  
 
 ## Como Rodar o Projeto
 
