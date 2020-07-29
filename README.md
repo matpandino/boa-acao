@@ -5,14 +5,6 @@
 
 </h1>
 
-  
-
-<h4  align="center">
-
-❤️ Boa Ação ❤️
-
-</h4>
-
 
 <br>
 
